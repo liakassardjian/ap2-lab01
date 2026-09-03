@@ -11,6 +11,7 @@ int main() {
     n_salarios = salario / salario_min;
 
     printf("%.2f\n", n_salarios);
+    printf("Lia\n");
 
     return 0;
 }
